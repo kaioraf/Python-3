@@ -108,5 +108,6 @@ def Menu():
         printLibrary(3)
     else:
         wrongNumber()
+
 while True:
     Menu()
